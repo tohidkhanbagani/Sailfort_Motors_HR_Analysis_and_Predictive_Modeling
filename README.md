@@ -31,7 +31,7 @@ Your feedback and contributions to enhance this project are highly appreciated. 
 
 ### Links
 
-- GitHub Repository: [Sailfort Motors HR Analytics](https://github.com/yourusername/SailfortMotorsHRAnalytics)
+- GitHub Repository: [Sailfort Motors HR Analytics]([https://github.com/yourusername/SailfortMotorsHRAnalytics](https://github.com/tohidkhanbagani/Sailfort_Motors_HR_Analysis_and_Predictive_Modeling/tree/main))
 - Kaggle Project: [HR Analytics for Sailfort Motors](https://www.kaggle.com/code/tohidkhanbagani/sailfort-motors)
 
 Thank you for your interest and support in advancing HR analytics practices.
